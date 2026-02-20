@@ -1,6 +1,6 @@
-# UTRA Match Overlay
+# UTRA Hacks Match Overlay
 
-Live overlay and scoring system for a timed robot obstacle-course run. Single robot runs the track; the app shows team, score, timer, score breakdown, and optional AI commentary (Gemini + ElevenLabs TTS). Leaderboard can be stored in memory or MongoDB Atlas.
+Live overlay and scoring system for a timed robot obstacle-course run (UTRA Hacks 2026). Single robot runs the track; the app shows team, score, timer, score breakdown, and optional AI commentary (Gemini + ElevenLabs TTS). Leaderboard stored in memory or MongoDB Atlas.
 
 ## Features
 
