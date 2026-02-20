@@ -158,6 +158,4 @@ MONGODB_URI=mongodb+srv://USER:PASSWORD@CLUSTER.mongodb.net/?retryWrites=true&w=
 
 `GET /api/health/db` returns connection status. See project docs (e.g. `MONGODB.md` if present) for setup details.
 
-## License
-
-See repository.
+Built at UTRAHacks 2026
